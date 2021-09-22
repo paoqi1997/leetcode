@@ -37,6 +37,7 @@
 |189|[旋转数组](https://leetcode-cn.com/problems/rotate-array/)|中等|
 |208|[实现 Trie (前缀树)](https://leetcode-cn.com/problems/implement-trie-prefix-tree/)|中等|
 |215|[数组中的第K个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/)|中等|
+|220|[存在重复元素 III](https://leetcode-cn.com/problems/contains-duplicate-iii/)|中等|
 |226|[翻转二叉树](https://leetcode-cn.com/problems/invert-binary-tree/)|简单|
 |236|[二叉树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/)|中等|
 |237|[删除链表中的节点](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/)|简单|
